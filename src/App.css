@@ -64,6 +64,7 @@
 .wrapper{
   height: 100vh;
   display: flex;
+  background-image: linear-gradient(#edf6fb, white);
 }
 .left_arow{
   width: 16px;
