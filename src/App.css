@@ -80,7 +80,7 @@
   margin: 25px auto;
 }
 .home_page{
-  margin-top: 60px;
+  padding-top: 60px;
 }
 .home_page input:focus{
   outline: none;
